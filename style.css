@@ -1,0 +1,22 @@
+h2{background-color: red;}
+h1 {font-style: italic; 
+ color: aqua;}
+ body{ 
+    background-image:url(https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-friends/launch/pokemon-friends-169.png);
+     background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: cover;
+}
+
+
+div{
+  font-size: 20px;
+  color: rgb(2, 2, 2);
+  text-transform: uppercase;
+    letter-spacing: 10px;
+
+}
+
+a{
+    color: darkred;
+}
